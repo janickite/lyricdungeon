@@ -1,2 +1,2 @@
 # lyricdungeon
-hosting twine game lyric dungeon
+hosting twine game
